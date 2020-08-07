@@ -23,5 +23,7 @@
 <br>
 <p align="center"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </p>
 
-<!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoknapp&layout=compact&hide=html" alt="timoknapp" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timoknapp&show_icons=true" alt="timoknapp" />-->
+<p align="center">
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoknapp&layout=compact&hide=html" alt="timoknapp" />-->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=timoknapp&show_icons=true" alt="timoknapp" />
+</p>
