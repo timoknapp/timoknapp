@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Golang**
 
-- 👨‍💻 All of my projects are available [here](https://timoknapp.com)
+- 👨‍💻 All of my projects are available [here](https://timoknapp.github.io)
 
 - 💬 Ask me about **Flutter**
 
