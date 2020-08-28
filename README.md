@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to **[reach me](https://twitter.com/tea_mo903)**
+- 📫 How to **[reach me](https://twitter.com/timoknapp_)**
 
 - ⚡ Fun fact: **Tabs over Spaces**
 
