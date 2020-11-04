@@ -6,8 +6,6 @@
 
 <h3 align="center">Less bullshit, more engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timoknapp" alt="timoknapp" /> </p>
-
 - 🔭 I’m currently working on [sound-on-fire](https://github.com/timoknapp/sound-on-fire)
 
 - 🌱 I’m currently learning **Kotlin, Golang**
@@ -27,3 +25,5 @@
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoknapp&layout=compact&hide=html" alt="timoknapp" />-->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=timoknapp&show_icons=true" alt="timoknapp" />
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=timoknapp" alt="timoknapp" /> </p>
