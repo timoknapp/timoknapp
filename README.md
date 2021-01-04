@@ -19,11 +19,23 @@
 - ⚡ Fun fact: **Tabs over Spaces**
 
 <br>
-<p align="center"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </p>
+<p align="center">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="30"
+        height="30" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" />
+</p>
 
 <p align="center">
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoknapp&layout=compact&hide=html" alt="timoknapp" />-->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timoknapp&show_icons=true" alt="timoknapp" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=timoknapp&show_icons=true&count_private=true" alt="timoknapp" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=timoknapp" alt="timoknapp" /> </p>
