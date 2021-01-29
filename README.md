@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timo</h1>
 
 <p align="center">
-<a href="https://twitter.com/tea_mo903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tea_mo903" height="18" width="18" /></a>
+<a href="https://twitter.com/timoknapp_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tea_mo903" height="18" width="18" /></a>
 </p>
 
 <h3 align="center">Less bullshit, more engineering</h3>
