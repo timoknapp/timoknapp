@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [sound-on-fire](https://github.com/timoknapp/sound-on-fire)
 
-- 🌱 I’m currently learning **Kotlin, Golang**
+- 🌱 I’m currently learning **Azure and AWS**
 
 - 👨‍💻 All of my projects are available [here](https://timoknapp.github.io)
 
