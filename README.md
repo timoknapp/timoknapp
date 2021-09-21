@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [sound-on-fire](https://github.com/timoknapp/sound-on-fire)
 
-- 🌱 I’m currently learning **Azure and AWS**
+- 🌱 I’m currently learning **[Azure](https://github.com/topics/aure)** and **[AWS](https://github.com/topics/aws)**
 
 - 👨‍💻 All of my projects are available [here](https://timoknapp.github.io)
 
@@ -20,13 +20,13 @@
 
 <br>
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30" />
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="30"
         height="30" />
