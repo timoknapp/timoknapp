@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available [here](https://timoknapp.github.io)
 
-- 💬 Ask me about **Flutter**
-
 - 📫 How to **[reach me](https://twitter.com/timoknapp_)**
 
 - ⚡ Fun fact: **Tabs over Spaces**
