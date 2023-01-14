@@ -30,7 +30,7 @@
 
 <p align="center">
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoknapp&layout=compact&hide=html" alt="timoknapp" />-->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timoknapp&show_icons=true&count_private=true" alt="timoknapp" />
+<img align="center" src="https://github-readme-stats-timoknapp.vercel.app/api?username=timoknapp&show_icons=true&count_private=true" alt="timoknapp" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=timoknapp" alt="timoknapp" /> </p>
