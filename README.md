@@ -20,6 +20,7 @@
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_bicep.svg" alt="bicep" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30" />
     <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="30" height="30" />
