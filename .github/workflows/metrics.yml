@@ -1,0 +1,25 @@
+name: GitHub Profile Summary Cards
+
+on:
+  # Run daily at midnight
+  schedule:
+    - cron: "0 13 * * *"
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate profile summary cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: timoknapp
+          BRANCH_NAME: output
+          UTC_OFFSET: +01:00
+          THEME: github_dark

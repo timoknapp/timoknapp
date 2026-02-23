@@ -1,37 +1,66 @@
-<h1 align="center">Hi 👋, I'm Timo</h1>
+<h1 align="center">Hey there 👋 I'm Timo</h1>
 
 <p align="center">
-<a href="https://twitter.com/timoknapp_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tea_mo903" height="18" width="18" /></a>
+  <a href="https://twitter.com/timoknapp_"><img src="https://img.shields.io/badge/-@timoknapp__-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" /></a>&nbsp;
+  <a href="https://timoknapp.github.io"><img src="https://img.shields.io/badge/-timoknapp.github.io-181717?style=flat-square&logo=github&logoColor=white" alt="Website" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=timoknapp&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 <h3 align="center">Less bullshit, more engineering</h3>
 
-- 🔭 I’m currently working on [sound-on-fire](https://github.com/timoknapp/sound-on-fire)
+---
 
-- 🌱 I’m currently learning **[Azure](https://github.com/topics/azure)**
+### 🧑‍💻 About Me
 
-- 👨‍💻 All of my projects are available [here](https://timoknapp.github.io)
-
-- 📫 How to **[reach me](https://twitter.com/timoknapp_)**
-
+- 🔭 Currently working on **[sound-on-fire](https://github.com/timoknapp/sound-on-fire)**
+- 🌱 Currently learning **[Azure](https://github.com/topics/azure)**
+- 👨‍💻 All projects available at **[timoknapp.github.io](https://timoknapp.github.io)**
 - ⚡ Fun fact: **Tabs over Spaces**
 
-<br>
-<p align="center">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30" />
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" />
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30" />
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_bicep.svg" alt="bicep" width="30" height="30" />
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30" />
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="30" height="30" />
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30" />
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="30" height="30" />
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30" />
-</p>
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-    <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-    <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoknapp&layout=compact&hide=html" alt="timoknapp" />-->
-    <img align="center" src="https://github-readme-stats-timoknapp.vercel.app/api?username=timoknapp&show_icons=true&theme=dark&count_private=true" alt="timoknapp" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Bicep-4B8BBE?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Bicep" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=timoknapp" alt="timoknapp" /> </p>
+
+---
+
+### 📊 GitHub Stats
+
+<!-- Generated SVG links (require GitHub Action to run first):
+<p align="center">
+  <img src="https://raw.githubusercontent.com/timoknapp/timoknapp/output/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/timoknapp/timoknapp/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="49%" />
+  <img src="https://raw.githubusercontent.com/timoknapp/timoknapp/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="49%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/timoknapp/timoknapp/output/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/timoknapp/timoknapp/output/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="49%" />
+</p>
+-->
+
+<!-- Vercel app links (no workflow needed) -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timoknapp&theme=github_dark" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timoknapp&theme=github_dark" alt="Repos per Language" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timoknapp&theme=github_dark" alt="Most Commit Language" width="49%" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=timoknapp&theme=github_dark" alt="Stats" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=timoknapp&theme=github_dark&utcOffset=1" alt="Productive Time" width="49%" />
+</p>
