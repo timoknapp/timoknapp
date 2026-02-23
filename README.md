@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Timo</h1>
 
 <p align="center">
-  <a href="https://twitter.com/timoknapp_"><img src="https://img.shields.io/badge/-@timoknapp__-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" /></a>&nbsp;
+  <a href="https://linkedin.com/in/timoknapp"><img src="https://img.shields.io/badge/in-timoknapp-0a66c2?style=flat-square&labelColor=0a66c2&color=2d2d2d" alt="LinkedIn" /></a>&nbsp;
   <a href="https://timoknapp.github.io"><img src="https://img.shields.io/badge/-timoknapp.github.io-181717?style=flat-square&logo=github&logoColor=white" alt="Website" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=timoknapp&style=flat-square&color=blue" alt="Profile views" />
 </p>
