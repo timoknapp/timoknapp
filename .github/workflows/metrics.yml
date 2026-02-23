@@ -1,9 +1,9 @@
 name: GitHub Profile Summary Cards
 
 on:
-  # Run daily at midnight
+  # Run every 24 hours
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "* */24 * * *"
   # Allow manual trigger
   workflow_dispatch:
 
@@ -20,6 +20,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: timoknapp
-          BRANCH_NAME: output
+          BRANCH_NAME: master
           UTC_OFFSET: +01:00
-          THEME: github_dark
