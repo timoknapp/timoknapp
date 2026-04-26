@@ -12,8 +12,6 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on **[sound-on-fire](https://github.com/timoknapp/sound-on-fire)**
-- 🌱 Currently learning **[Azure](https://github.com/topics/azure)**
 - 👨‍💻 All projects available at **[timoknapp.github.io](https://timoknapp.github.io)**
 - ⚡ Fun fact: **Tabs over Spaces**
 
