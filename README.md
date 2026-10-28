@@ -13,7 +13,6 @@
 ### 🧑‍💻 About Me
 
 - 👨‍💻 All projects available at **[timoknapp.github.io](https://timoknapp.github.io)**
-- ⚡ Fun fact: **Tabs over Spaces**
 
 ---
 
